@@ -5,106 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88f89588-e52f-4a8d-b8a0-142f604ffa16" name="Changes" comment="диплом">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/site.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/migrations/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/site1/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/site1/main/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/appointment_success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/glav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/omni.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/privacy_policy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/slider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/stati.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/stati2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/templates/main/ysligu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/site1/main/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/site1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/site1/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/site1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/site1/site1/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/site1/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/site1/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/appointment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/glav.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/tg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/vk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/wats.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/Снимок3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/Снимок4.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/игрушка.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/иконка.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/логотип.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/поиск.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/ребенок 4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/ребенок 5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/ребенок 6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/ребенок 7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/серт9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья7.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья8.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/статья9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/услуга 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/услуга 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/услуга 3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/фон.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/фон2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/фон3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/фотка1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/image/фотка4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/omni.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/ysligu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/иконка.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/логотип.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/поиск.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/ребенок 4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/ребенок 5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/ребенок 6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/ребенок 7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/серт1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/серт2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/серт3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/серт4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/серт5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site1/static/серт6.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +57,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Reverting in master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/python/site",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   },
